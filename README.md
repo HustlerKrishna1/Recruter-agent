@@ -20,5 +20,3 @@ The **Recruiter Agent** is an innovative, AI-powered tool designed for recruiter
 - **One-Tap Outreach**:
   - Send tailored outreach messages instantly, enhancing your engagement with potential candidates.
 
-- **Analytics Dashboard**:
-  - Track outreach success rates, response rates, and other key metrics to optimize your recruitment strategy.
